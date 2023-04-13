@@ -113,7 +113,7 @@ if [ "" = "$PKG_OK" ]; then
   echo -e "[ ${tyblue}NOTES${NC} ] After rebooting"
   sleep 1
   echo -e "[ ${tyblue}NOTES${NC} ] Then run this script again"
-  echo -e "[ ${tyblue}NOTES${NC} ] Notes, Script Mod By FranataSTORE"
+  echo -e "[ ${tyblue}NOTES${NC} ] Notes, Script Mod By arlanstore"
   echo -e "[ ${tyblue}NOTES${NC} ] if you understand then tap enter now.."
   read
 else
@@ -346,7 +346,7 @@ echo "   - Admin Control" | tee -a log-install.txt
 echo "   - Restore Data" | tee -a log-install.txt
 echo "   - Full Orders For Various Services" | tee -a log-install.txt
 echo ""  | tee -a log-install.txt
-echo "   >>> Contact : +6282241967317 (Text Only)"  | tee -a log-install.txt
+echo "   >>> Contact : +6283805933853 (Text Only)"  | tee -a log-install.txt
 echo ""
 echo ""
 echo "------------------------------------------------------------"
